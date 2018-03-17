@@ -1,0 +1,19 @@
+{
+  "name": "allusion",
+  "version": "0.0.1",
+  "description": "A simple library to aid in the access of JSON API objects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdknapp/allusion.git"
+  },
+  "author": "Matthew Knapp/Andrew Knapp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattdknapp/allusion/issues"
+  },
+  "homepage": "https://github.com/mattdknapp/allusion#readme"
+}
